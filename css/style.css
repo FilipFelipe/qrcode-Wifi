@@ -1,0 +1,25 @@
+ .card {
+     width: 530px;
+     margin-top: 3px;
+     padding: 10px;
+     border-radius: 20px;
+     background: #fff;
+     position: relative
+ }
+
+ .container {
+     height: 95vh
+ }
+
+ .containerQRCode {
+     text-align: center;
+     margin-top: 4px;
+ }
+
+ .containerForm {
+     margin-top: 5px;
+ }
+
+ .btn {
+     margin-top: 5px;
+ }
